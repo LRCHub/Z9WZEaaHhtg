@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Starlight Prologue",
+  "base_artist": "Liella!",
+  "createdAt": "2026-03-18T00:49:16.865580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starlight Prologue",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/01_Starlight_Prologue_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Betcha Gon' Know (the prologue)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/02_Betcha_Gon'_Know_(the_prologue)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prologue",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/03_Prologue_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Years (Prologue)",
+      "artist": "The Midnight",
+      "has_synced": true,
+      "path": "select/04_The_Years_(Prologue)_The_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tour de France / Prologue / Etape 1 / Chrono / Etape 2",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/05_Tour_de_France___Prologue___Etape_1___Chrono___Etape_2_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tour De France \u0000 Prologue \u0000 Etape 1 \u0000 Chrono \u0000 Etape 2 (3-D)",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/06_Tour_De_France_\u0000_Prologue_\u0000_Etape_1_\u0000_Chrono_\u0000_Etape_2_(3-D)_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Prologue",
+      "artist": "Delaney Stein feat. Donna Murphy",
+      "has_synced": true,
+      "path": "select/07_Prologue_Delaney_Stein_feat._Donna_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Prologue (songs and score)",
+      "artist": "Donna Murphy and Delaney Stein",
+      "has_synced": true,
+      "path": "select/08_Prologue_(songs_and_score)_Donna_Murphy_and_Delaney_Stein.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Prologue / Look Down - Live",
+      "artist": "The 2020 Les Misérables Staged Concert Company",
+      "has_synced": true,
+      "path": "select/09_Prologue___Look_Down_-_Live_The_2020_Les_Misérables_Staged_Concert_Company.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Prologue ⁄ Look Down",
+      "artist": "The 2020 Les Misérables Staged Concert Company",
+      "has_synced": true,
+      "path": "select/10_Prologue_⁄_Look_Down_The_2020_Les_Misérables_Staged_Concert_Company.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prologue: A Faint Applause...",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/11_Prologue__A_Faint_Applause..._Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Prologue… A Faint Applause",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/12_Prologue..._A_Faint_Applause_Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Prologue - The Stage Of Paris Opéra House, 1905",
+      "artist": "Andrew Lloyd Webber, Michael Kunze, Original London Cast & Michael Reed",
+      "has_synced": false,
+      "path": "select/13_Prologue_-_The_Stage_Of_Paris_Opéra_House,_1905_Andrew_Lloyd_Webber,_Michael_Kunze,_Original_London_Cast_&_Michael_Reed.txt"
+    }
+  ]
+}
